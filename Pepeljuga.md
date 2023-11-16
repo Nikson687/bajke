@@ -7,7 +7,7 @@ author:
 
 # Pepeljuga – e-Lektire
 
-> ## Excerpt
+
 > Oboljela žena nekoga bogatoga čovjeka, pa kad je osjetila da joj se približava smrt, pozvala svoju jedinicu kćer k postelji te joj rekla: – Drago dijete, budi čedna i dobra, pa će ti uvijek dobro biti…
 
 ---
