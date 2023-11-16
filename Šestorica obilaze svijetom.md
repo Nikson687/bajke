@@ -7,7 +7,7 @@ author:
 
 # Šestorica obilaze svijetom – e-Lektire
 
-> ## Excerpt
+
 > Bio neki čovjek, koji je umio svašta; služio u ratu valjano i hrabro, no kad je rat svršio, otpustili ga davši mu tri filira popudbine. »Čekaj, nećemo baš tako. Nađem li pravih ljudi, dat će mi kralj…
 
 ---
