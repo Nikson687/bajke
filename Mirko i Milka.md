@@ -7,7 +7,7 @@ author:
 
 # Mirko i Milka – e-Lektire
 
-> ## Excerpt
+
 > Bio čovjek, po imenu Mirko, i žena, po imenu Milka; oni se uzeli i počeli živjeti kao mladi bračni drugovi. Jednoga dana reče Mirko: – Milka, ja idem orati, pa dok se vratim, gledaj da bude štogod…
 
 ---
