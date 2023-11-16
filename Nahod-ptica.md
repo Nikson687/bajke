@@ -7,7 +7,7 @@ author:
 
 # Nahod-ptica – e-Lektire
 
-> ## Excerpt
+
 > Bio jednom neki šumar, pa išao u šumu u lov; kad je stigao u šumu, očuje cviljenje, kao da plače malo dijete. Pođe on prema mjestu odakle je taj cvil dopirao, pa napokon dođe do nekoga visokog stabla…
 
 ---
