@@ -7,7 +7,7 @@ author:
 
 # Vuk i sedmoro jaradi – e-Lektire
 
-> ## Excerpt
+
 > Bila jednom stara koza; imala sedmoro jaradi, a voljela ih kao što majka voli svoju djecu. Jednoga se dana spremala u šumu po nešto krme, te ih sazva sve sedmoro i reče: – Draga djeco, ja ću u šumu…
 
 ---
