@@ -7,7 +7,7 @@ author:
 
 # Pas i vrabac – e-Lektire
 
-> ## Excerpt
+
 > Imao ovčarski pas loša gospodara, koji ga pustio da gladuje. Kako nije mogao kod njega više izdržati, pođe žalostan u svijet. Na cesti ga sretne vrabac i zapita: – Brate garove, zašto si tužan?
 
 ---
