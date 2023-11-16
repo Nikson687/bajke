@@ -7,7 +7,7 @@ author:
 
 # Dvanaestorica braće – e-Lektire
 
-> ## Excerpt
+
 > Bijahu jednom kralj kraljica i življahu sa svoje dvanaestoro djece, sve samih dječaka. Jednoga dana reče kralj svojoj ženi: – Bude li trinaesto dijete, što ćeš ga roditi, djevojčica…
 
 ---
