@@ -7,7 +7,7 @@ author:
 
 # Mudra Jelka – e-Lektire
 
-> ## Excerpt
+
 > Bio neki čovjek, koji imađaše kćer, što se zvala mudra Jelka. Kad je odrasla, reče otac: – Udat ćemo je. – Da – potvrdi mati – ako samo dođe, tko bi je htio. Napokon dođe izdaleka čovjek, po imenu Ivo…
 
 ---
