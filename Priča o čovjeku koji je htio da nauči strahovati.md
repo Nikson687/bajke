@@ -7,7 +7,7 @@ author:
 
 # Priča o čovjeku koji je htio da nauči strahovati – e-Lektire
 
-> ## Excerpt
+
 > Bio jednom otac, što je imao dva sina: stariji mu bio pametan i mudar, te se u svemu snalazio, a mlađi glup, te ništa nije shvaćao ni učio. Videći mlađega, ljudi govorahu: »S ovim će otac imati muke!
 
 ---
