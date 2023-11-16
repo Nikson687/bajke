@@ -7,7 +7,7 @@ author:
 
 # Tri čovječuljka u šumi – e-Lektire
 
-> ## Excerpt
+
 > Bio neki čovjek pa mu umrla žena, a bila opet neka žena pa joj umro muž: čovjek imao kćer, i žena imala kćer. Obje djevojke bile dobre druge. Išle zajedno šetati, pa se poslije šetnje svratile udovici…
 
 ---
