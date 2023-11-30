@@ -22,7 +22,7 @@ author:
 -   [Nahod-ptica](https://github.com/Nikson687/bajke/blob/e240ba36ba43328133c2b7e58a352f1e8698bde8/Nahod-ptica.md)
 -   [Dvanaestorica braće](https://github.com/Nikson687/bajke/blob/e240ba36ba43328133c2b7e58a352f1e8698bde8/Dvanaestorica%20bra%C4%87e.md)
 -   [Mudra Jelka](https://github.com/Nikson687/bajke/blob/e240ba36ba43328133c2b7e58a352f1e8698bde8/Mudra%20seljanka.md)
--   [Šestorica obilaze svijetom]()
+-   [Šestorica obilaze svijetom](https://github.com/Nikson687/bajke/blob/main/Braco%20i%20seka.md#%C5%A1estorica-obilaze-svijetom--e-lektire)
 -   [Pas i vrabac](https://github.com/Nikson687/bajke/blob/e240ba36ba43328133c2b7e58a352f1e8698bde8/Pas%20i%20vrabac.md)
 -   [Pepeljuga](https://github.com/Nikson687/bajke/blob/e240ba36ba43328133c2b7e58a352f1e8698bde8/Pepeljuga.md)
 -   [Mirko i Milka](https://github.com/Nikson687/bajke/blob/e240ba36ba43328133c2b7e58a352f1e8698bde8/Mirko%20i%20Milka.md)
