@@ -36,7 +36,7 @@ author:
 -   [Doktor Sveznalica](https://github.com/Nikson687/bajke/blob/e240ba36ba43328133c2b7e58a352f1e8698bde8/Doktor%20Sveznalica.md)
 -   [Snjeguljica](https://github.com/Nikson687/bajke/blob/e240ba36ba43328133c2b7e58a352f1e8698bde8/Snjeguljica.md)
 -   [Mudri ljudi](https://github.com/Nikson687/bajke/blob/e240ba36ba43328133c2b7e58a352f1e8698bde8/Mudri%20ljudi.md)
--   [Braco i seka]([undefined](https://github.com/Nikson687/bajke/blob/main/Braco%20i%20seka.md#braco-i-seka--e-lektire))
+-   [Braco i seka](https://github.com/Nikson687/bajke/blob/main/Braco%20i%20seka.md#braco-i-seka--e-lektire)
 -   [Siromašni mlinarski momčić i maca](https://github.com/Nikson687/bajke/blob/e240ba36ba43328133c2b7e58a352f1e8698bde8/Siroma%C5%A1ni%20mlinarski%20mom%C4%8Di%C4%87%20i%20maca.md)
 -   [Sretni Ivo](https://github.com/Nikson687/bajke/blob/e240ba36ba43328133c2b7e58a352f1e8698bde8/Sretni%20Ivo.md)
 -   [Bajke]()
